@@ -1,0 +1,20 @@
+	<!DOCTYPE HTML>
+<HTML lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>OGTCIUWEB</title>
+</head>
+<body bgcolor="white">
+	<h1 align="center">
+	<strong><font color="blue" size="10">¡BIENVENIDO A LA PÁGINA OFICIAL DE</font>
+	<font color="#9ACD32" size="10"> OGT</font><font color="#9932CC" size="10">CIU!</font></strong></h1>
+	<ul>
+	<br></br>
+		<li><a href="miembros.html">Miembros</a></li>
+		<li>Noticias</li> <a>
+		<li>Cultura</li>
+		<li>Deudas</li>
+		<li>Comentarios</li>
+	</ul>
+</body>
+</html>
